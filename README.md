@@ -1,32 +1,75 @@
 # Hi, I'm Kukun Kurniawan 👋
 
-Mahasiswa Teknik Informatika dan AI Enthusiast.
+Data Science and Machine Learning enthusiast with experience in predictive analytics, computer vision, data visualization, and artificial intelligence projects using Python and modern machine learning frameworks.
 
-## 🚀 About Me
+Currently focused on developing data-driven solutions through machine learning, deep learning, sentiment analysis, and computer vision applications for research and real-world problem solving.
 
-Saya memiliki minat pada:
+## 🚀 Areas of Focus
 
-- Computer Vision
-- Deep Learning
 - Machine Learning
-- Data Analytics
-- Python Programming
+- Deep Learning
+- Computer Vision
+- Sentiment Analysis
+- Educational Data Mining
+- Predictive Analytics
+- Data Visualization
+- Network Administration
+- IT Infrastructure
 
-## 📚 Current Research
+## 🛠 Core Technologies
+* Python
+* SQL
+* Git & GitHub
+* Pandas
+* NumPy
+* Scikit-Learn
+* Power BI
+* Matplotlib
+* Seaborn
+* TensorFlow
+* OpenCV
+* YOLOv8
+* Cisco Networking
 
-- YOLOv8 Helmet Detection
-- Smart Traffic Management System
-- Sentiment Analysis menggunakan FastText dan SVM
+## 📂 Featured Projects
 
-## 🛠️ Tech Stack
+### 📚 E-Learning Activity Score Prediction
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Machine learning project for predicting student e-learning activity scores using Multiple Linear Regression (MLR) and Support Vector Regression (SVR) with hyperparameter tuning, cross-validation, and performance evaluation.
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+### 🪖 Motorcycle Helmet Detection Using YOLOv8
 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
+Computer vision project for detecting motorcycle helmet compliance from traffic CCTV footage using the YOLOv8 object detection framework.
 
-## 📫 Contact
+### 📊 Population Data Visualization Dashboard
 
-- Email: emailanda@example.com
-- Instagram: @kknkrnwn_
+Interactive dashboard development using Power BI for demographic data analysis, visualization, and decision-support reporting.
+
+### 🤖 Machine Learning Research Projects
+
+Research-oriented machine learning projects involving regression, classification, clustering, and predictive analytics for academic and practical applications.
+
+## 💼 Research Interests
+
+* Educational Data Mining
+* Sentiment Analysis
+* Computer Vision
+* Deep Learning
+* Smart Transportation Systems
+* Predictive Modeling
+* Explainable AI
+* Data Analytics
+
+## 📈 GitHub Statistics
+
+* Machine Learning Projects
+* Data Science
+
+
+## 📫 Connect
+
+* GitHub: https://github.com/kknkrnwn
+* LinkedIn: https://linkedin.com/in/kukunkurniawan
+* Email: kukunkurniawan1933@gmail.com
+
+⭐ Always exploring new technologies in Artificial Intelligence, Machine Learning, and Data Science.
