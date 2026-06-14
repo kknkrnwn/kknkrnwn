@@ -65,9 +65,6 @@ Research-oriented machine learning projects involving regression, classification
 * Machine Learning Projects
 * Data Science
 
-
-## 📫 Connect
-
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-kukunkurniawan1933%40gmail.com-EA4335?logo=gmail)](mailto:kukunkurniawan1933@gmail.com)
