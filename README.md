@@ -68,9 +68,11 @@ Research-oriented machine learning projects involving regression, classification
 
 ## 📫 Connect
 
-* Email: kukunkurniawan1933@gmail.com
-* GitHub: github.com/kknkrnwn
-* LinkedIn: linkedin.com/in/kukunkurniawan
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-kukunkurniawan1933%40gmail.com-EA4335?logo=gmail)](mailto:kukunkurniawan1933@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-kknkrnwn-181717?logo=github)](https://github.com/kknkrnwn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kukun%20Kurniawan-0A66C2?logo=linkedin)](https://linkedin.com/in/kukunkurniawan)
 
 
 ⭐ Always exploring new technologies in Artificial Intelligence, Machine Learning, and Data Science.
