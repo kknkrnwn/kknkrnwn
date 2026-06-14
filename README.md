@@ -68,8 +68,9 @@ Research-oriented machine learning projects involving regression, classification
 
 ## 📫 Connect
 
-* GitHub: https://github.com/kknkrnwn
-* LinkedIn: https://linkedin.com/in/kukunkurniawan
 * Email: kukunkurniawan1933@gmail.com
+* GitHub: github.com/kknkrnwn
+* LinkedIn: linkedin.com/in/kukunkurniawan
+
 
 ⭐ Always exploring new technologies in Artificial Intelligence, Machine Learning, and Data Science.
