@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Kukun Kurniawan 👋
 
-<!--
-**kknkrnwn/kknkrnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswa Teknik Informatika dan AI Enthusiast.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya memiliki minat pada:
+
+- Computer Vision
+- Deep Learning
+- Machine Learning
+- Data Analytics
+- Python Programming
+
+## 📚 Current Research
+
+- YOLOv8 Helmet Detection
+- Smart Traffic Management System
+- Sentiment Analysis menggunakan FastText dan SVM
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
+
+## 📫 Contact
+
+- Email: emailanda@example.com
+- Instagram: @kknkrnwn_
